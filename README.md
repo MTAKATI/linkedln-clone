@@ -107,7 +107,3 @@ This project is licensed under the [MIT License](LICENSE).
 GitHub: [@MTAKATI](https://github.com/MTAKATI)  
 LinkedIn: *Your LinkedIn URL*
 ```
-
----
-
-Would you like me to save this as a file you can directly drop into your project folder? Or add custom sections like deployment instructions or demo GIFs?
