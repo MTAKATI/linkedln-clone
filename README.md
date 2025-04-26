@@ -92,8 +92,8 @@ The app will run on [http://localhost:3000](http://localhost:3000)
 ---
 
 ## 📸 Screenshots
+![image](https://github.com/user-attachments/assets/465d2d3f-417f-434c-b009-2e6dbcc4de0a)
 
-_Add some screenshots of the Feed, Post section, and Authentication screen here._
 
 ---
 
