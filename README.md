@@ -3,6 +3,8 @@
 
 A full-stack LinkedIn-inspired social networking application built using **React**, **Firebase**, **Redux**, and **Material UI**. Users can post updates, interact with content, and simulate a LinkedIn-like feed experience.
 
+Check out the live app here: [LinkedIn Clone](https://linkedin-clone-2eb9e.web.app/)
+
 ---
 
 ## 🚀 Features
@@ -105,5 +107,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 **MTAKATI**  
 GitHub: [@MTAKATI](https://github.com/MTAKATI)  
-LinkedIn: *Your LinkedIn URL*
+LinkedIn: [www.linkedin.com/in/sandiso-mtakati-a7b26321b]
 ```
